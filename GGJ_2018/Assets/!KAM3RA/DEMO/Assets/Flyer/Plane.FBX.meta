@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: efe3e5930a5374224b08ea6e481f7f77
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Axle
+    100002: Cab
+    100004: //RootNode
+    100006: Prop
+    100008: Seat
+    100010: SeatExit
+    100012: SteeringWheel
+    100014: WheelFrontLeft
+    100016: WheelFrontRight
+    100018: WingLeft
+    100020: WingRight
+    100022: WheelBackLeft
+    100024: WheelBackRight
+    100026: AxleBack
+    100028: AxleFront
+    100030: WingRight01
+    100032: Object01
+    100034: Rudder
+    100036: Tail
+    100038: Wing
+    100040: Hood
+    100042: LeftSide
+    100044: RightSide
+    400000: Axle
+    400002: Cab
+    400004: //RootNode
+    400006: Prop
+    400008: Seat
+    400010: SeatExit
+    400012: SteeringWheel
+    400014: WheelFrontLeft
+    400016: WheelFrontRight
+    400018: WingLeft
+    400020: WingRight
+    400022: WheelBackLeft
+    400024: WheelBackRight
+    400026: AxleBack
+    400028: AxleFront
+    400030: WingRight01
+    400032: Object01
+    400034: Rudder
+    400036: Tail
+    400038: Wing
+    400040: Hood
+    400042: LeftSide
+    400044: RightSide
+    2300000: Axle
+    2300002: Cab
+    2300004: Prop
+    2300006: SteeringWheel
+    2300008: WheelFrontLeft
+    2300010: WheelFrontRight
+    2300012: WingLeft
+    2300014: WingRight
+    2300016: WheelBackLeft
+    2300018: WheelBackRight
+    2300020: AxleBack
+    2300022: AxleFront
+    2300024: WingRight01
+    2300026: Object01
+    2300028: Rudder
+    2300030: Tail
+    2300032: Wing
+    2300034: Hood
+    2300036: LeftSide
+    2300038: RightSide
+    3300000: Axle
+    3300002: Cab
+    3300004: Prop
+    3300006: SteeringWheel
+    3300008: WheelFrontLeft
+    3300010: WheelFrontRight
+    3300012: WingLeft
+    3300014: WingRight
+    3300016: WheelBackLeft
+    3300018: WheelBackRight
+    3300020: AxleBack
+    3300022: AxleFront
+    3300024: WingRight01
+    3300026: Object01
+    3300028: Rudder
+    3300030: Tail
+    3300032: Wing
+    3300034: Hood
+    3300036: LeftSide
+    3300038: RightSide
+    4300000: Cab
+    4300002: SteeringWheel
+    4300004: WingRight
+    4300006: WingLeft
+    4300008: Prop
+    4300010: WheelFrontLeft
+    4300012: WheelFrontRight
+    4300014: Axle
+    4300016: WheelBackLeft
+    4300018: WheelBackRight
+    4300020: AxleFront
+    4300022: AxleBack
+    4300024: WingRight01
+    4300026: Object01
+    4300028: Wing
+    4300030: Rudder
+    4300032: Tail
+    4300034: RightSide
+    4300036: LeftSide
+    4300038: Hood
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
